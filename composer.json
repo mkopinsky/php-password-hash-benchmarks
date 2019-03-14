@@ -1,0 +1,15 @@
+{
+    "name": "mkopinsky/php-password-hash-benchmarks",
+    "description": "Util to benchmark speed of different password hash functions in PHP",
+    "type": "project",
+    "require": {
+        "symfony/security-core": "^4.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael Kopinsky",
+            "email": "mkopinsky@gmail.com"
+        }
+    ]
+}
